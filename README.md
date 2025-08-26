@@ -31,3 +31,5 @@ Belye medvedi,
 Spi skorej i ty, malysh.
 <br><br>
 
+![](https://github.com/user-attachments/assets/45c375eb-c2a4-4c88-af5a-e67b0f115c2b)
+![](https://github.com/user-attachments/assets/c3ddf1dc-f926-4c76-9786-ca761bf07e05)
