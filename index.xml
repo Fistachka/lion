@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>lion</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="Fistachka" repo="umka2"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="Fistachka" repo="umka"/>
   <readme>
-    <ru>78637308d6df9c4bf863e5225a03beacffac43297d4563de5754d49e1fcab695</ru>
-    <en>955b3bd1dc68a468cc547e0fa0ddb9972771a2aee6f4312caf5da2afb6c9ee30</en>
+    <ru>b07162bd02cf92a7272910cd8507c8dd9bdc4d30f9b76c79a9841eed201b29c3</ru>
+    <en>3337bb1a5cf35c046357235d7fd23dd7646e095b5887b37eda10417579141d98</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
