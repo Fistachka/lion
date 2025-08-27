@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>lion</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="Fistachka" repo="umka"/>
   <readme>
     <ru>b07162bd02cf92a7272910cd8507c8dd9bdc4d30f9b76c79a9841eed201b29c3</ru>
@@ -33,8 +33,8 @@
     <video name="2t.mp4" size="2294009" type="video/mp4" volume="0.5">61e3b48577294e77f427e94885668e76b75d18bfa873aea755aa6f9f16bd4f94</video>
     <notes>
       <note number="1" values="58" ticks="167" durationTicks="49" ppq="96" velocity="0.843"/>
-      <note number="2" values="48" ticks="217" durationTicks="47" ppq="96" velocity="0.906"/>
-      <note number="3" values="38" ticks="264" durationTicks="89" ppq="96" velocity="0.827"/>
+      <note number="2" values="48" ticks="225" durationTicks="47" ppq="96" velocity="0.906"/>
+      <note number="3" values="38" ticks="273" durationTicks="85" ppq="96" velocity="0.827"/>
       <note number="4" values="18" ticks="359" durationTicks="96" ppq="96" velocity="0.906"/>
       <note number="5" values="6" ticks="456" durationTicks="96" ppq="96" velocity="0.906"/>
       <note number="6" values="7" ticks="552" durationTicks="93" ppq="96" velocity="0.835"/>
