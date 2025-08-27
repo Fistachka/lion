@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>lion</repo>
-  <version>v1.0.21</version>
+  <version>v1.0.22</version>
   <next number="1" owner="Fistachka" repo="umka"/>
   <readme>
     <ru>b07162bd02cf92a7272910cd8507c8dd9bdc4d30f9b76c79a9841eed201b29c3</ru>
@@ -233,16 +233,16 @@
   <exercise number="15">
     <scale>major</scale>
     <bpm>124</bpm>
-    <lowestNote>38</lowestNote>
+    <lowestNote>5</lowestNote>
     <tonalities>4</tonalities>
     <video name="14t.mp4" size="2275831" type="video/mp4" volume="0.5">1686d65355494f23984924f4cb7e57604454ccb50b14c17a53c9c5a9b8bc0e76</video>
     <notes>
-      <note number="1" values="78" ticks="33" durationTicks="51" ppq="96" velocity="0.843"/>
-      <note number="2" values="68" ticks="97" durationTicks="49" ppq="96" velocity="0.906"/>
-      <note number="3" values="188" ticks="144" durationTicks="130" ppq="96" velocity="0.906"/>
-      <note number="4" values="68" ticks="288" durationTicks="73" ppq="96" velocity="0.906"/>
-      <note number="5" values="78" ticks="348" durationTicks="176" ppq="96" velocity="0.906"/>
-      <note number="6" values="58" ticks="535" durationTicks="95" ppq="96" velocity="0.906"/>
+      <note number="1" values="18" ticks="81" durationTicks="51" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="134" durationTicks="49" ppq="96" velocity="0.906"/>
+      <note number="3" values="18" ticks="187" durationTicks="55" ppq="96" velocity="0.906"/>
+      <note number="4" values="18" ticks="244" durationTicks="139" ppq="96" velocity="0.906"/>
+      <note number="5" values="18" ticks="411" durationTicks="64" ppq="96" velocity="0.906"/>
+      <note number="6" values="18,58" ticks="478" durationTicks="217" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
 </level>
