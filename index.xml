@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>lion</repo>
-  <version>v1.0.18</version>
+  <version>v1.0.19</version>
   <next number="1" owner="Fistachka" repo="umka"/>
   <readme>
     <ru>b07162bd02cf92a7272910cd8507c8dd9bdc4d30f9b76c79a9841eed201b29c3</ru>
@@ -194,8 +194,8 @@
       <note number="3" values="48" ticks="194" durationTicks="89" ppq="96" velocity="0.827"/>
       <note number="4" values="28" ticks="289" durationTicks="96" ppq="96" velocity="0.906"/>
       <note number="5" values="7" ticks="386" durationTicks="90" ppq="96" velocity="0.906"/>
-      <note number="6" values="28" ticks="476" durationTicks="52" ppq="96" velocity="0.835"/>
-      <note number="7" values="18" ticks="527" durationTicks="95" ppq="96" velocity="0.906"/>
+      <note number="6" values="28" ticks="476" durationTicks="63" ppq="96" velocity="0.835"/>
+      <note number="7" values="18" ticks="539" durationTicks="95" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="13">
